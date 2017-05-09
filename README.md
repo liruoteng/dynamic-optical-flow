@@ -10,3 +10,6 @@ This algorithm is still in prototype. Only Matlab version is supported for now. 
 
 # Run
 Type `demo` in the MATLAB root directory
+
+# More Result
+Please see the [video](https://youtu.be/AsYaCS-GQu8) for optical flow under heavy rains, comparing with other methods. 
